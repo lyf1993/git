@@ -11,7 +11,7 @@
 					<key>kind</key>
 	  				<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.111:8090/x8/UI2/app.ipa</string>
+					<string>http://211.141.83.103:8093/x8/UI2/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.111:8090/x8/g.png</string>
+					<string>211.141.83.103:8093/x8/UI2/v-JVjUBb-zh_CN-/HumanMobileApp/images/app.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.111:8090/x8/g.png</string>
+					<string>211.141.83.103:8093/x8/UI2/v-JVjUBb-zh_CN-/HumanMobileApp/images/app.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
